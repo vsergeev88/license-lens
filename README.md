@@ -1,17 +1,17 @@
-# license-lens
+# @ratcopycat/license-lens
 
 A tiny CLI tool to scan node_modules and generate a markdown report of all package licenses.
 
 ## Installation
 
 ```bash
-npm install -g license-lens
+npm install -g @ratcopycat/license-lens
 ```
 
 Or use directly with npx (no installation required):
 
 ```bash
-npx license-lens
+npx @ratcopycat/license-lens
 ```
 
 ## Usage
@@ -19,7 +19,7 @@ npx license-lens
 Run in your project directory:
 
 ```bash
-npx license-lens
+npx @ratcopycat/license-lens
 ```
 
 This will create a `LICENSES.md` file with a table of all dependencies and their licenses.
