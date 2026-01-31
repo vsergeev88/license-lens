@@ -4,7 +4,7 @@
   "description": "Scan node_modules and generate a markdown report of all package licenses",
   "main": "index.js",
   "bin": {
-    "license-lens": "./bin/license-lens.js"
+    "license-lens": "bin/license-lens.js"
   },
   "files": [
     "bin",
