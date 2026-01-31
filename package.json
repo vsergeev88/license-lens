@@ -1,0 +1,33 @@
+{
+  "name": "license-lens",
+  "version": "1.0.0",
+  "description": "Scan node_modules and generate a markdown report of all package licenses",
+  "main": "index.js",
+  "bin": {
+    "license-lens": "./bin/license-lens.js"
+  },
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "keywords": [
+    "license",
+    "licenses",
+    "npm",
+    "dependencies",
+    "audit",
+    "compliance",
+    "mit",
+    "report",
+    "markdown"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
